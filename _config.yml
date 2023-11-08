@@ -2,5 +2,5 @@ title: Samir Gajiani
 #logo: relative path to photo file
 #description:  some text here
 #show_downloads: true
-theme: minimal-mistakes-jekyll #jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
