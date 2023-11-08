@@ -1,6 +1,9 @@
-# sgajiani.github.io
+## Data Scientist
 
-# Data Scientist
-
-# Education
+## Education
 MS Computational Data Analytics
+
+## Project
+Project 1
+Project 2
+
