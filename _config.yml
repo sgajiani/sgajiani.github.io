@@ -2,5 +2,7 @@ title: Samir Gajiani
 #logo: relative path to photo file
 #description:  some text here
 #show_downloads: true
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+plugins:
+  - jekyll-include-cache
