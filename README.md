@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-- M.S., Computation data Analytics	| Georgia Institute of Technology
+- M.S., Computational Data Analytics	| Georgia Institute of Technology
 - B.S., Information Systems | The University of Texas at Arlington
 
 ## Work Experience
