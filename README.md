@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Computation data Analytics	| Georgia Institute of Technology
-- B.S., Information Systems         | The University of Texas at Arlington
+- B.S., Information Systems | The University of Texas at Arlington
 
 ## Work Experience
 **Data Scientist 
@@ -39,4 +39,4 @@ Project desc please type in your project description here.
 ## Publications
 1. my publications
 
-- [Blog](https://sqlvoyage.com)
+- [Blog](url)
