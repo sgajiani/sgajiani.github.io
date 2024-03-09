@@ -1,10 +1,42 @@
-## Data Scientist
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Azure
 
 ## Education
-MS Computational Data Analytics
+- M.S., Computation data Analytics	| Georgia Institute of Technology
+- B.S., Information Systems         | The University of Texas at Arlington
 
-## Project
-Project 1
-Project 2
-Project 3
-Project 4
+## Work Experience
+**Data Scientist 
+- desc 1
+- desc 2
+
+**Data Science Consultant 
+- work description 1
+- work description 2
+
+## Projects
+### Project 1
+[Publication](url)
+
+Project desc please type in your project description here.
+
+![Image Desc](/imagefolder/1.jpeg)
+
+### Project 2
+[Publication](url)
+
+Project desc please type in your project description here.
+
+![Image Desc](/imagefolder/1.jpeg)
+
+## Talks & Lectures
+- Session 1
+- Session 2
+
+- [Data Science YouTube](url)
+
+## Publications
+1. my publications
+
+- [Blog](https://sqlvoyage.com)
