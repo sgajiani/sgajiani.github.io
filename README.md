@@ -4,8 +4,8 @@
 
 
 ## Education
-- M.S., Computational Data Analytics	| Georgia Institute of Technology
-- B.S., Information Systems           | The University of Texas at Arlington
+- M.S., Computational Data Analytics, Georgia Institute of Technology
+- B.S., Information Systems, The University of Texas at Arlington
 
 ## Work Experience
 **Data Scientist 
